@@ -5,11 +5,14 @@ Resources used AND Practice tests in order
 
 2) Udemy 
 Master Microsoft Azure Fundamentals: AZ-900 Exam Prep 2025 by Scott Duffy (Completed) 
+
 AZ-900: Microsoft Azure Fundamentals Original Practice Tests by Scott Duffy (Passing most of them, results are inconsistent and I realize that I do not know many specific stuff or services, also lack of knowledge in networking and security.
 
 3) Udemy
+
 AZ-900 Microsoft Azure Fundamentals in a Weekend by in 28Minutes (Completed)
 Helped to grasp specific concepts, it helped on understanding more in deep azure services. More in deep preparation for the exam with use case scenarios and answers.
+
 AZ-900: Microsoft Azure Fundamentals Exam test 2025 (480Q) by Global EDtech (Completed  couple of tests, failing 1)
 
 I watched again some of the "in 28Minutes videos" focusing on areas where i still lack knowledge or just do not remember concepts.
