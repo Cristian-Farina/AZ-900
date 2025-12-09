@@ -1,16 +1,30 @@
-(TO BE NOTED)
-I Will make this notes cleaner and better looking once the project is going to end.
+AZ-900 Preparation
 -----------
-I used Codespaces to start using a VM for free as I am using a Personal account on Microsoft Learn i am not able to use Sandbox to practice.
-This is an alternative.
+Resources used AND Practice tests in order
+1) Ms Learn - I have read all sections and completed couple of test assessments (failed the 1st and passed the 2nd)
 
-Day 1
+2) Udemy 
+Master Microsoft Azure Fundamentals: AZ-900 Exam Prep 2025 by Scott Duffy (Completed) 
+AZ-900: Microsoft Azure Fundamentals Original Practice Tests by Scott Duffy (Passing most of them, results are inconsistent and I realize that I do not know many specific stuff or services, also lack of knowledge in networking and security.
 
-Install Azure CLI
+3) Udemy
+AZ-900 Microsoft Azure Fundamentals in a Weekend by in 28Minutes (Completed)
+Helped to grasp specific concepts, it helped on understanding more in deep azure services. More in deep preparation for the exam with use case scenarios and answers.
+AZ-900: Microsoft Azure Fundamentals Exam test 2025 (480Q) by Global EDtech (Completed  couple of tests, failing 1)
 
-curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+I watched again some of the "in 28Minutes videos" focusing on areas where i still lack knowledge or just do not remember concepts.
 
-Verify if Azure CLI is Installed
+[NEW] AZ-900 Microsoft Azure Fundamentals | Practice Exams (completed) getting an average of 88%
 
-az --version
+4) Inside cloud and  security - Test
+https://insidethemicrosoftcloud.com/az900quiz/
+
+I tried doing as many practice test as possible, they all differ from each other, trying to get free ones but difficult.
+This test was difficult, 100 questions. Got 79%
+
+5) Booked AZ-900 exam - in 2 weeks - to give me enough time to keep practicing and to not feel too much pressure
+
+6) (current phase) Went trough MS Learn and Took notes for the first time. 
+
+
 
