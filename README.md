@@ -25,9 +25,13 @@ https://insidethemicrosoftcloud.com/az900quiz/
 I tried doing as many practice test as possible, they all differ from each other, trying to get free ones but difficult.
 This test was difficult, 100 questions. Got 79%
 
-5) Booked AZ-900 exam - in 2 weeks - to give me enough time to keep practicing and to not feel too much pressure
+5) Booked AZ-900 exam - in 2 weeks - to give me enough time to keep practicing and to not feel too much pressure.
 
-6) (current phase) Went trough MS Learn and Took notes for the first time. 
+6) Went trough MS Learn and Took notes for the first time.
+
+7) Took hard practice tests from AZ-900: Microsoft Azure Fundamentals Practice Tests 2025 by Amandeep Sawhney | HawkEye Data
+   They are though tests and sometimes a bit confusionary, I am barely passing these tests whereas practice tests from other instructors are much easier for me. 
+
 
 
 
