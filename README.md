@@ -30,7 +30,9 @@ This test was difficult, 100 questions. Got 79%
 6) Went trough MS Learn and Took notes for the first time.
 
 7) Took hard practice tests from AZ-900: Microsoft Azure Fundamentals Practice Tests 2025 by Amandeep Sawhney | HawkEye Data
-   They are though tests and sometimes a bit confusionary, I am barely passing these tests whereas practice tests from other instructors are much easier for me. 
+   They are though tests and sometimes a bit confusionary, I am barely passing these tests whereas practice tests from other instructors are much easier for me.
+
+Test Passed 826/1000!!
 
 
 
